@@ -26,7 +26,7 @@ public class Aufgabe1 {
 		// oder falsch (false) ist.
 		boolean a = false; // Aussage A
 		boolean b = false; // Aussage B
-		boolean c = false; // Aussage C
+		boolean c = true; // Aussage C
 		boolean d = false; // Aussage D
 		boolean e = true; // Aussage E
 		boolean f = false; // Aussage F
@@ -46,7 +46,7 @@ public class Aufgabe1 {
 		boolean a = false; // Aussage A
 		boolean b = false; // Aussage B
 		boolean c = false; // Aussage C
-		boolean d = false; // Aussage D
+		boolean d = true; // Aussage D
 		boolean e = true; // Aussage E
 		boolean f = false; // Aussage F
 
